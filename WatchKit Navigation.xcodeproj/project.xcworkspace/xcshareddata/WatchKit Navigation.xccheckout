@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C9E5045-2AFB-4401-A8C9-7319F1DF491F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAE3B28C13886B8C1ED6E8DCEC15B7D19C453E0B</key>
+		<string>https://github.com/davis503525/WatchKit-Navigation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WatchKit Navigation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAE3B28C13886B8C1ED6E8DCEC15B7D19C453E0B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/davis503525/WatchKit-Navigation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAE3B28C13886B8C1ED6E8DCEC15B7D19C453E0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAE3B28C13886B8C1ED6E8DCEC15B7D19C453E0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WatchKit%20Navigation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
